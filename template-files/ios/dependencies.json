@@ -48,10 +48,6 @@
     "version": "~> 2.5.0"
   },
   {
-    "name": "Google-Maps-iOS-Utils",
-    "version": "~> 2.1.0"
-  },
-  {
     "name": "lottie-ios",
     "version": "~> 2.5.0"
   },

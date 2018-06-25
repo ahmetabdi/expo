@@ -77,7 +77,6 @@ Pod::Spec.new do |s|
     ss.dependency 'FBSDKShareKit'
     ss.dependency 'GoogleSignIn'
     ss.dependency 'GoogleMaps'
-    ss.dependency 'Google-Maps-iOS-Utils', :git => 'https://github.com/farshadmb/google-maps-ios-utils.git'
     ss.dependency 'lottie-ios'
     ss.dependency 'GPUImage'
     ss.dependency 'JKBigInteger2'
